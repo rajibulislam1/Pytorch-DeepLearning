@@ -1,3 +1,8 @@
+# .gitignore
+torchDL/
+*.dylib
+*.so
+*.pyd
 # Ignore Python virtual environments
 torchDL/
 env/
