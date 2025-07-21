@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+torchDL/
+env/
+venv/
+
+# Ignore cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Ignore large binaries
+*.dylib
+
